@@ -7,8 +7,6 @@
 Development Environment
 
 WSL2(Ubuntu)
-Node.js
-npm
 
 <!---
 Nakayama-Yuki/Nakayama-Yuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
