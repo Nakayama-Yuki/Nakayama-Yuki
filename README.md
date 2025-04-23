@@ -3,6 +3,7 @@
 - **Next.js (App Router)**
 - **React**
 - **TypeScript**
+- **Github Copilot(Pro)**
 
 # 持っている資格
 
