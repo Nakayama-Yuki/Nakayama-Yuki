@@ -1,6 +1,7 @@
 # 使用している技術スタック
 
 - **Next.js (App Router)**
+- **react-router（勉強中）**
 - **React**
 - **TypeScript**
 - **Github Copilot(Pro)**
